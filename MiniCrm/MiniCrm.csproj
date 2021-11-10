@@ -144,23 +144,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="bin\HtmlAgilityPack.dll" />
-    <Content Include="bin\HtmlAgilityPack.pdb" />
-    <Content Include="bin\HtmlAgilityPack.xml" />
     <Content Include="bin\ICSharpCode.SharpZipLib.dll" />
     <Content Include="bin\Lucene.Net.dll" />
-    <Content Include="bin\Lucene.Net.pdb" />
-    <Content Include="bin\Lucene.Net.xml" />
     <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
-    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
     <Content Include="bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
-    <Content Include="bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml" />
     <Content Include="bin\Microsoft.Extensions.DependencyInjection.dll" />
-    <Content Include="bin\Microsoft.Extensions.DependencyInjection.xml" />
     <Content Include="bin\Microsoft.Web.Infrastructure.dll" />
     <Content Include="bin\MiniCrm.dll" />
-    <Content Include="bin\MiniCrm.pdb" />
     <Content Include="bin\Newtonsoft.Json.dll" />
-    <Content Include="bin\Newtonsoft.Json.xml" />
     <Content Include="bin\roslyn\csc.exe" />
     <Content Include="bin\roslyn\csi.exe" />
     <Content Include="bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll" />
@@ -189,17 +180,11 @@
     <Content Include="bin\Sitecore.Zip.dll" />
     <Content Include="bin\System.Data.Linq.dll" />
     <Content Include="bin\System.Web.Helpers.dll" />
-    <Content Include="bin\System.Web.Helpers.xml" />
     <Content Include="bin\System.Web.Mvc.dll" />
-    <Content Include="bin\System.Web.Mvc.xml" />
     <Content Include="bin\System.Web.Razor.dll" />
-    <Content Include="bin\System.Web.Razor.xml" />
     <Content Include="bin\System.Web.Webpages.Deployment.dll" />
-    <Content Include="bin\System.Web.Webpages.Deployment.xml" />
     <Content Include="bin\System.Web.Webpages.dll" />
     <Content Include="bin\System.Web.Webpages.Razor.dll" />
-    <Content Include="bin\System.Web.Webpages.Razor.xml" />
-    <Content Include="bin\System.Web.Webpages.xml" />
     <Content Include="bin\System.Xml.Linq.dll" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
@@ -224,6 +209,7 @@
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Properties\PublishProfiles\IISProfile.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />

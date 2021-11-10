@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_NewBackgroundProfile>False</_NewBackgroundProfile>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\AlitTatiana</_PublishTargetUrl>
+    <History>False|2021-11-10T07:35:17.8164482Z;False|2021-11-10T02:32:49.1302832-05:00;False|2021-11-10T02:30:57.0289652-05:00;False|2021-11-10T02:30:23.9959055-05:00;False|2021-11-10T02:28:44.7545370-05:00;False|2021-11-10T02:24:43.9794377-05:00;False|2021-11-10T02:24:14.8227858-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Config/Include/MiniCrmIndex.config">
+      <publishTime>02/01/2018 17:08:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>02/01/2018 17:14:45</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>02/01/2018 17:16:04</publishTime>
+    </File>
+    <File Include="bin/MiniCrm.dll">
+      <publishTime>02/02/2018 07:28:49</publishTime>
+    </File>
+    <File Include="bin/MiniCrm.pdb">
+      <publishTime>02/02/2018 07:28:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>02/01/2018 17:15:09</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>02/01/2018 17:15:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>02/01/2018 17:15:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>02/01/2018 17:15:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>02/01/2018 17:15:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>02/01/2018 17:15:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>02/01/2018 17:15:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>02/01/2018 17:15:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>02/01/2018 17:15:27</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>02/01/2018 17:15:29</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>02/01/2018 17:15:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>02/01/2018 17:15:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>02/01/2018 17:15:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>02/01/2018 17:15:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>02/01/2018 17:15:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>02/01/2018 17:15:43</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>02/01/2018 17:15:45</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>02/01/2018 17:15:47</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>02/01/2018 17:15:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>02/01/2018 17:15:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>02/01/2018 17:15:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>02/01/2018 17:15:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>02/01/2018 17:15:55</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>02/01/2018 17:15:57</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>02/01/2018 17:15:59</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>02/01/2018 17:16:00</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ContentSearch.dll">
+      <publishTime>02/01/2018 17:08:43</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ContentSearch.Linq.dll">
+      <publishTime>02/01/2018 17:08:45</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Kernel.dll">
+      <publishTime>02/01/2018 17:08:49</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Mvc.dll">
+      <publishTime>02/01/2018 17:08:51</publishTime>
+    </File>
+    <File Include="bin/System.Data.Linq.dll">
+      <publishTime>02/01/2018 17:08:52</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>02/01/2018 17:14:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>02/01/2018 17:14:03</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>02/01/2018 17:14:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>02/01/2018 17:14:27</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>02/01/2018 17:14:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>02/01/2018 17:14:34</publishTime>
+    </File>
+    <File Include="bin/System.Xml.Linq.dll">
+      <publishTime>02/01/2018 17:09:06</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>02/01/2018 17:09:59</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>02/01/2018 17:10:00</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>02/01/2018 17:10:02</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>02/01/2018 17:10:03</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>02/01/2018 17:10:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>02/01/2018 17:10:07</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>02/01/2018 17:10:09</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/01/2018 17:08:26</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/01/2018 17:08:28</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>02/01/2018 17:12:56</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>02/01/2018 17:12:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>02/01/2018 17:13:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>02/01/2018 17:13:07</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>02/01/2018 17:13:09</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>02/01/2018 17:13:11</publishTime>
+    </File>
+    <File Include="Views/MiniCrm/UserEdit.cshtml">
+      <publishTime>02/01/2018 17:13:15</publishTime>
+    </File>
+    <File Include="Views/MiniCrm/UserList.cshtml">
+      <publishTime>02/01/2018 17:13:17</publishTime>
+    </File>
+    <File Include="Views/MiniCrm/web.config">
+      <publishTime>02/01/2018 17:13:18</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>02/01/2018 17:13:20</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>01/23/2018 18:41:58</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>02/01/2018 17:13:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
